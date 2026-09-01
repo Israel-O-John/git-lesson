@@ -1,3 +1,4 @@
 hello
 hello again
 line added on master
+CONFLICT BRANCH VERSION
