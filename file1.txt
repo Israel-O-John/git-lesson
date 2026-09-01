@@ -3,3 +3,5 @@ hello again
 line added on master
 another line on master
 MASTER VERSION
+CONFLICT BRANCH VERSION
+
